@@ -1,3 +1,3 @@
-# Tic-Tac-Toe ticta
+# Tic-Tac-Toe
 ## Play with your friends and family 👨‍👩‍👧‍👦
 ## Happy gaming! 😉
